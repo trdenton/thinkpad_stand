@@ -1,5 +1,7 @@
 # Thinkpad Stand
 
+![photo](photo.png)
+
 Works with a thinkpad T15, T480, probably others.
 
 Bounding box dimensions are 200mm x 150mm x 85mm
